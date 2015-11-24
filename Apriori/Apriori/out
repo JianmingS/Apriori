@@ -1,0 +1,10 @@
+Case 0 : 
+Cola => Ham
+Case 1 : 
+Cola => Diaper
+Case 2 : 
+Cola => Beer
+Case 3 : 
+Diaper => Beer
+Case 4 : 
+Cola,Diaper => Beer
